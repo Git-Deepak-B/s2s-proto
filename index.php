@@ -1,1 +1,1 @@
-<?php include( $_SERVER['DOCUMENT_ROOT'] . '/src/html/login.hml' ); ?>
+<?php include('https://s2scommunications.herokuapp.com/src/html/login.html'); ?>
