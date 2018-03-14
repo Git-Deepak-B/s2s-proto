@@ -1,1 +1,1 @@
-<?php include('/src/html/login.html'); ?>
+<?php include('../src/html/login.html'); ?>
